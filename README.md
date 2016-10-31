@@ -2,7 +2,7 @@
 
 ##Let's create something else.
 
-This is only for example. 7 tutorials with rest_framework on django
+This is only for example of 7 tutorials with rest_framework on django
 
 created by [Artem K.](https://github.com/Kryvonis)
 
